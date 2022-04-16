@@ -178,6 +178,10 @@
     padding: 2px;
     color: rgba(108, 97, 211, 0.74);
   }
+  footer {
+    font-size: 10px;
+    font-weight: lighter;
+  }
   @keyframes change {
     0% {
       background-position: 0 50%;
